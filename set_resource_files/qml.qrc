@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qml/Datapools">
+        <file>qml/Datapools/Settings.qml</file>
+    </qresource>
+</RCC>

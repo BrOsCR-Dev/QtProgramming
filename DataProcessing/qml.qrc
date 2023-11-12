@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Widgets">
+        <file>Widgets/Btn.qml</file>
+    </qresource>
+</RCC>
